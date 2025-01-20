@@ -1,0 +1,5 @@
+Welcome to today's session
+its gonna be awesome today
+python provides multiple way to read file contents
+closing files
+writing & appending files
